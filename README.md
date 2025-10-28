@@ -3,6 +3,12 @@ Use this NOCK Proxy for mining at goldenminer.net
 Video Tutorial: https://youtu.be/HqnHdzbEjCc  
 Discord: https://discord.gg/w6GuBsWHQa
 
+*****
+
+Always use the latest release !
+
+*****
+
 WALLET CREATION    
 ![wallet](https://github.com/gokyuzugokturk/igotek-nock-proxy/blob/main/hiveos_flighsheet_000.png)
 
