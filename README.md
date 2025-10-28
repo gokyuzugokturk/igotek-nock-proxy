@@ -1,6 +1,6 @@
 Use this NOCK Proxy for mining at goldenminer.net
 
-Video Tutorial: [https://youtu.be/CLJTqaLlNoA  ](https://youtu.be/HqnHdzbEjCc)  
+Video Tutorial: <a href="https://youtu.be/HqnHdzbEjCc" target="_blank">https://youtu.be/HqnHdzbEjCc</a>  
 Discord: https://discord.gg/w6GuBsWHQa
 
 WALLET CREATION    
