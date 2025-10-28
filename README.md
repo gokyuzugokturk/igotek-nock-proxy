@@ -36,5 +36,6 @@ NO GPU !
 *****
 
 * This proxy works at HiveOS !
+* This scripts uses golden-miner-pool-proxy ! 
 
 
