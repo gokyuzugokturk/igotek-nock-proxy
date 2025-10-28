@@ -1,4 +1,4 @@
-Use this NOCK Prover for mining at goldenminer.net
+Use this NOCK Proxy for mining at goldenminer.net
 
 Video Tutorial: [https://youtu.be/CLJTqaLlNoA  ](https://youtu.be/HqnHdzbEjCc)
 Discord: https://discord.gg/w6GuBsWHQa
@@ -13,7 +13,10 @@ FLIGHT SHEET:
 
 *****
 
-Type miner at the HiveShell bash screen if you want to see details.
+Type miner at the HiveShell bash screen if you want to see details.  
+You dont have to use Proxy. You can use only Prover to start mining.  
+You need Proxy if you have many devices/rigs.  
+Your network will be stuck if you dont use Proxy if you have many devices/rigs.
 
 *****
 
