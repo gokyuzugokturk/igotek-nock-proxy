@@ -15,7 +15,7 @@ WALLET CREATION
 *****
 
 FLIGHT SHEET:  
-![--gpu](https://github.com/gokyuzugokturk/igotek-nock-proxy/blob/main/hiveos_flighsheet_000.png)
+![--gpu](https://github.com/gokyuzugokturk/igotek-nock-proxy/blob/main/hiveos_flighsheet_001.png)
 
 *****
 
